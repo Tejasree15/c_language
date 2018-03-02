@@ -3,20 +3,6 @@
 
 
 #include<stdio.h>
-/*int ArrayModification(int *arr, int len,int i,int j)
-{
-    int c=0,k;
-    for(k=i;k<=j;k++)
-    {
-      arr[k]=0;
-    }
-    for(k=0;k<len;k++)
-    {
-        if(arr[k]!=0)
-          c++;
-    }
-    return c;
-}*/
 int ArrayModification(int *arr, int len,int start,int end)
 {
     int c=0,i,j;
