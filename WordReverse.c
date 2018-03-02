@@ -1,4 +1,6 @@
+/* reverse the word in the given line and printd each word in a new line*/
 #include<stdio.h>
+#include<string.h>
 void main()
 {
  char line[100], word[20];
