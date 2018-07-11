@@ -1,3 +1,10 @@
+/*Swap the first element of the array with the smallest element of the array and the print the array.
+Sample Input 
+5
+3 8 2 5 9
+Sample Output 
+2 8 3 5 9*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
